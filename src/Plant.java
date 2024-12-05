@@ -2,7 +2,7 @@ class Plant {
     private int growthStage;
 
     public Plant() {
-        this.growthStage = 1; // Начальная стадия роста
+        this.growthStage = 1;
     }
 
     public void grow() {
